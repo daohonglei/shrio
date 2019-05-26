@@ -32,7 +32,5 @@ public class CustomerRealm extends AuthorizingRealm{
 		info.addStringPermission("user:add");
 		info.addStringPermission("user:update");
 		return info;
-	}
-
-	
+	}	
 }

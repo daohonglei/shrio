@@ -12,7 +12,7 @@
 		<sevlet.version>3.0.1</sevlet.version>
 		<spirng.version>4.3.3.RELEASE</spirng.version>
 		<struts.version>2.5</struts.version>
-		<hibernate.version>4.1.7.Final</hibernate.version>
+		<!-- <hibernate.version>4.1.7.Final</hibernate.version> -->
 		<c3p0.version>0.9.1</c3p0.version>
 	</properties>
 	<dependencies>
